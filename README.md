@@ -1,2 +1,16 @@
-# sql-data-warehouse-project
-Building a modern data warehouse with SQL Server, including ETL processes, data modeling, and data analytics.
+# Data Warehouse and Analytics Project
+
+ Welcome to the **Data Ware and Analytics Project** Repository!
+ This project demonstrates a comprehensive data warehousing and analytics solution, from building a data warehouse to generating actionable insights. Designed as a portfolio project that highlights industry best practices in data engineering and analytics.
+
+ ---
+
+ ### BI: Analytics & Reporting (Data Analytics)
+
+ ### Objective
+ Develop SQL-based analytics to deliver detailed insights into:
+ - **Customer Behavior**
+ - **Product Performance**
+ - **Sales Trends**
+
+ These insights empower stakeholders with key business metrics, enabling strategic decision-making.
